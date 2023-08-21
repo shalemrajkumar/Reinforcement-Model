@@ -6,14 +6,13 @@ This is normal snake game made by pygame which is played by RL agent.
 <br />
 <br />
 <br />
-Usage:
-  either run agent.py <br />
-  or use rl_agent.ipynb <br />
-  or use rl_snake_game.ipynb <br />
+Usage:<br />
+>>either run agent.py <br />>>or use rl_agent.ipynb <br />
+>>or use rl_snake_game.ipynb <br />
 
 important dependencies:
-  torch <br />
-  pygame <br />
-  numpy <br />
-  matplotlib <br />
+>>torch <br />
+>>pygame <br />
+>>numpy <br />
+>>matplotlib <br />
   
